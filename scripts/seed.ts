@@ -1,7 +1,6 @@
-import fetch from 'node-fetch';
 import fs from 'fs';
 import path from 'path';
-import { Product } from '../src/types/product';
+import { Product } from '../src/types/product';;
 
 interface DummyJsonResponse {
   products: Product[];
@@ -16,7 +15,7 @@ async function fetchAndSeedProducts() {
     const data = (await response.json()) as DummyJsonResponse;
 
 
-    
+
     if (!data.products || !Array.isArray(data.products)) {
       throw new Error('Invalid product data received');
     }
@@ -29,8 +28,14 @@ async function fetchAndSeedProducts() {
       price: p.price,
     }));
 
-    const filePath = path.join(__dirname, '../data/products.json');
+    const dirPath = path.join(__dirname, '../src/data');
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath, { recursive: true });
+    }
+
+    const filePath = path.join(dirPath, 'products.json');
     fs.writeFileSync(filePath, JSON.stringify(cleaned, null, 2));
+
     console.log(`Seeded ${cleaned.length} products to products.json`);
   } catch (err) {
     console.error('Error fetching or writing products:', err);

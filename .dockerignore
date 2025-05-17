@@ -1,1 +1,5 @@
 node_modules
+Readme.md
+dist
+package-lock.json
+designdoc.md

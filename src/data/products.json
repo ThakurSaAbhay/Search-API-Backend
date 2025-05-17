@@ -1,0 +1,640 @@
+[
+  {
+    "id": 1,
+    "title": "Essence Mascara Lash Princess",
+    "brand": "Essence",
+    "category": "beauty",
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "title": "Eyeshadow Palette with Mirror",
+    "brand": "Glamour Beauty",
+    "category": "beauty",
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "title": "Powder Canister",
+    "brand": "Velvet Touch",
+    "category": "beauty",
+    "price": 14.99
+  },
+  {
+    "id": 4,
+    "title": "Red Lipstick",
+    "brand": "Chic Cosmetics",
+    "category": "beauty",
+    "price": 12.99
+  },
+  {
+    "id": 5,
+    "title": "Red Nail Polish",
+    "brand": "Nail Couture",
+    "category": "beauty",
+    "price": 8.99
+  },
+  {
+    "id": 6,
+    "title": "Calvin Klein CK One",
+    "brand": "Calvin Klein",
+    "category": "fragrances",
+    "price": 49.99
+  },
+  {
+    "id": 7,
+    "title": "Chanel Coco Noir Eau De",
+    "brand": "Chanel",
+    "category": "fragrances",
+    "price": 129.99
+  },
+  {
+    "id": 8,
+    "title": "Dior J'adore",
+    "brand": "Dior",
+    "category": "fragrances",
+    "price": 89.99
+  },
+  {
+    "id": 9,
+    "title": "Dolce Shine Eau de",
+    "brand": "Dolce & Gabbana",
+    "category": "fragrances",
+    "price": 69.99
+  },
+  {
+    "id": 10,
+    "title": "Gucci Bloom Eau de",
+    "brand": "Gucci",
+    "category": "fragrances",
+    "price": 79.99
+  },
+  {
+    "id": 11,
+    "title": "Annibale Colombo Bed",
+    "brand": "Annibale Colombo",
+    "category": "furniture",
+    "price": 1899.99
+  },
+  {
+    "id": 12,
+    "title": "Annibale Colombo Sofa",
+    "brand": "Annibale Colombo",
+    "category": "furniture",
+    "price": 2499.99
+  },
+  {
+    "id": 13,
+    "title": "Bedside Table African Cherry",
+    "brand": "Furniture Co.",
+    "category": "furniture",
+    "price": 299.99
+  },
+  {
+    "id": 14,
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "brand": "Knoll",
+    "category": "furniture",
+    "price": 499.99
+  },
+  {
+    "id": 15,
+    "title": "Wooden Bathroom Sink With Mirror",
+    "brand": "Bath Trends",
+    "category": "furniture",
+    "price": 799.99
+  },
+  {
+    "id": 16,
+    "title": "Apple",
+    "category": "groceries",
+    "price": 1.99
+  },
+  {
+    "id": 17,
+    "title": "Beef Steak",
+    "category": "groceries",
+    "price": 12.99
+  },
+  {
+    "id": 18,
+    "title": "Cat Food",
+    "category": "groceries",
+    "price": 8.99
+  },
+  {
+    "id": 19,
+    "title": "Chicken Meat",
+    "category": "groceries",
+    "price": 9.99
+  },
+  {
+    "id": 20,
+    "title": "Cooking Oil",
+    "category": "groceries",
+    "price": 4.99
+  },
+  {
+    "id": 21,
+    "title": "Cucumber",
+    "category": "groceries",
+    "price": 1.49
+  },
+  {
+    "id": 22,
+    "title": "Dog Food",
+    "category": "groceries",
+    "price": 10.99
+  },
+  {
+    "id": 23,
+    "title": "Eggs",
+    "category": "groceries",
+    "price": 2.99
+  },
+  {
+    "id": 24,
+    "title": "Fish Steak",
+    "category": "groceries",
+    "price": 14.99
+  },
+  {
+    "id": 25,
+    "title": "Green Bell Pepper",
+    "category": "groceries",
+    "price": 1.29
+  },
+  {
+    "id": 26,
+    "title": "Green Chili Pepper",
+    "category": "groceries",
+    "price": 0.99
+  },
+  {
+    "id": 27,
+    "title": "Honey Jar",
+    "category": "groceries",
+    "price": 6.99
+  },
+  {
+    "id": 28,
+    "title": "Ice Cream",
+    "category": "groceries",
+    "price": 5.49
+  },
+  {
+    "id": 29,
+    "title": "Juice",
+    "category": "groceries",
+    "price": 3.99
+  },
+  {
+    "id": 30,
+    "title": "Kiwi",
+    "category": "groceries",
+    "price": 2.49
+  },
+  {
+    "id": 31,
+    "title": "Lemon",
+    "category": "groceries",
+    "price": 0.79
+  },
+  {
+    "id": 32,
+    "title": "Milk",
+    "category": "groceries",
+    "price": 3.49
+  },
+  {
+    "id": 33,
+    "title": "Mulberry",
+    "category": "groceries",
+    "price": 4.99
+  },
+  {
+    "id": 34,
+    "title": "Nescafe Coffee",
+    "category": "groceries",
+    "price": 7.99
+  },
+  {
+    "id": 35,
+    "title": "Potatoes",
+    "category": "groceries",
+    "price": 2.29
+  },
+  {
+    "id": 36,
+    "title": "Protein Powder",
+    "category": "groceries",
+    "price": 19.99
+  },
+  {
+    "id": 37,
+    "title": "Red Onions",
+    "category": "groceries",
+    "price": 1.99
+  },
+  {
+    "id": 38,
+    "title": "Rice",
+    "category": "groceries",
+    "price": 5.99
+  },
+  {
+    "id": 39,
+    "title": "Soft Drinks",
+    "category": "groceries",
+    "price": 1.99
+  },
+  {
+    "id": 40,
+    "title": "Strawberry",
+    "category": "groceries",
+    "price": 3.99
+  },
+  {
+    "id": 41,
+    "title": "Tissue Paper Box",
+    "category": "groceries",
+    "price": 2.49
+  },
+  {
+    "id": 42,
+    "title": "Water",
+    "category": "groceries",
+    "price": 0.99
+  },
+  {
+    "id": 43,
+    "title": "Decoration Swing",
+    "category": "home-decoration",
+    "price": 59.99
+  },
+  {
+    "id": 44,
+    "title": "Family Tree Photo Frame",
+    "category": "home-decoration",
+    "price": 29.99
+  },
+  {
+    "id": 45,
+    "title": "House Showpiece Plant",
+    "category": "home-decoration",
+    "price": 39.99
+  },
+  {
+    "id": 46,
+    "title": "Plant Pot",
+    "category": "home-decoration",
+    "price": 14.99
+  },
+  {
+    "id": 47,
+    "title": "Table Lamp",
+    "category": "home-decoration",
+    "price": 49.99
+  },
+  {
+    "id": 48,
+    "title": "Bamboo Spatula",
+    "category": "kitchen-accessories",
+    "price": 7.99
+  },
+  {
+    "id": 49,
+    "title": "Black Aluminium Cup",
+    "category": "kitchen-accessories",
+    "price": 5.99
+  },
+  {
+    "id": 50,
+    "title": "Black Whisk",
+    "category": "kitchen-accessories",
+    "price": 9.99
+  },
+  {
+    "id": 51,
+    "title": "Boxed Blender",
+    "category": "kitchen-accessories",
+    "price": 39.99
+  },
+  {
+    "id": 52,
+    "title": "Carbon Steel Wok",
+    "category": "kitchen-accessories",
+    "price": 29.99
+  },
+  {
+    "id": 53,
+    "title": "Chopping Board",
+    "category": "kitchen-accessories",
+    "price": 12.99
+  },
+  {
+    "id": 54,
+    "title": "Citrus Squeezer Yellow",
+    "category": "kitchen-accessories",
+    "price": 8.99
+  },
+  {
+    "id": 55,
+    "title": "Egg Slicer",
+    "category": "kitchen-accessories",
+    "price": 6.99
+  },
+  {
+    "id": 56,
+    "title": "Electric Stove",
+    "category": "kitchen-accessories",
+    "price": 49.99
+  },
+  {
+    "id": 57,
+    "title": "Fine Mesh Strainer",
+    "category": "kitchen-accessories",
+    "price": 9.99
+  },
+  {
+    "id": 58,
+    "title": "Fork",
+    "category": "kitchen-accessories",
+    "price": 3.99
+  },
+  {
+    "id": 59,
+    "title": "Glass",
+    "category": "kitchen-accessories",
+    "price": 4.99
+  },
+  {
+    "id": 60,
+    "title": "Grater Black",
+    "category": "kitchen-accessories",
+    "price": 10.99
+  },
+  {
+    "id": 61,
+    "title": "Hand Blender",
+    "category": "kitchen-accessories",
+    "price": 34.99
+  },
+  {
+    "id": 62,
+    "title": "Ice Cube Tray",
+    "category": "kitchen-accessories",
+    "price": 5.99
+  },
+  {
+    "id": 63,
+    "title": "Kitchen Sieve",
+    "category": "kitchen-accessories",
+    "price": 7.99
+  },
+  {
+    "id": 64,
+    "title": "Knife",
+    "category": "kitchen-accessories",
+    "price": 14.99
+  },
+  {
+    "id": 65,
+    "title": "Lunch Box",
+    "category": "kitchen-accessories",
+    "price": 12.99
+  },
+  {
+    "id": 66,
+    "title": "Microwave Oven",
+    "category": "kitchen-accessories",
+    "price": 89.99
+  },
+  {
+    "id": 67,
+    "title": "Mug Tree Stand",
+    "category": "kitchen-accessories",
+    "price": 15.99
+  },
+  {
+    "id": 68,
+    "title": "Pan",
+    "category": "kitchen-accessories",
+    "price": 24.99
+  },
+  {
+    "id": 69,
+    "title": "Plate",
+    "category": "kitchen-accessories",
+    "price": 3.99
+  },
+  {
+    "id": 70,
+    "title": "Red Tongs",
+    "category": "kitchen-accessories",
+    "price": 6.99
+  },
+  {
+    "id": 71,
+    "title": "Silver Pot With Glass Cap",
+    "category": "kitchen-accessories",
+    "price": 39.99
+  },
+  {
+    "id": 72,
+    "title": "Slotted Turner",
+    "category": "kitchen-accessories",
+    "price": 8.99
+  },
+  {
+    "id": 73,
+    "title": "Spice Rack",
+    "category": "kitchen-accessories",
+    "price": 19.99
+  },
+  {
+    "id": 74,
+    "title": "Spoon",
+    "category": "kitchen-accessories",
+    "price": 4.99
+  },
+  {
+    "id": 75,
+    "title": "Tray",
+    "category": "kitchen-accessories",
+    "price": 16.99
+  },
+  {
+    "id": 76,
+    "title": "Wooden Rolling Pin",
+    "category": "kitchen-accessories",
+    "price": 11.99
+  },
+  {
+    "id": 77,
+    "title": "Yellow Peeler",
+    "category": "kitchen-accessories",
+    "price": 5.99
+  },
+  {
+    "id": 78,
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 1999.99
+  },
+  {
+    "id": 79,
+    "title": "Asus Zenbook Pro Dual Screen Laptop",
+    "brand": "Asus",
+    "category": "laptops",
+    "price": 1799.99
+  },
+  {
+    "id": 80,
+    "title": "Huawei Matebook X Pro",
+    "brand": "Huawei",
+    "category": "laptops",
+    "price": 1399.99
+  },
+  {
+    "id": 81,
+    "title": "Lenovo Yoga 920",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "price": 1099.99
+  },
+  {
+    "id": 82,
+    "title": "New DELL XPS 13 9300 Laptop",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 1499.99
+  },
+  {
+    "id": 83,
+    "title": "Blue & Black Check Shirt",
+    "brand": "Fashion Trends",
+    "category": "mens-shirts",
+    "price": 29.99
+  },
+  {
+    "id": 84,
+    "title": "Gigabyte Aorus Men Tshirt",
+    "brand": "Gigabyte",
+    "category": "mens-shirts",
+    "price": 24.99
+  },
+  {
+    "id": 85,
+    "title": "Man Plaid Shirt",
+    "brand": "Classic Wear",
+    "category": "mens-shirts",
+    "price": 34.99
+  },
+  {
+    "id": 86,
+    "title": "Man Short Sleeve Shirt",
+    "brand": "Casual Comfort",
+    "category": "mens-shirts",
+    "price": 19.99
+  },
+  {
+    "id": 87,
+    "title": "Men Check Shirt",
+    "brand": "Urban Chic",
+    "category": "mens-shirts",
+    "price": 27.99
+  },
+  {
+    "id": 88,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "brand": "Nike",
+    "category": "mens-shoes",
+    "price": 149.99
+  },
+  {
+    "id": 89,
+    "title": "Nike Baseball Cleats",
+    "brand": "Nike",
+    "category": "mens-shoes",
+    "price": 79.99
+  },
+  {
+    "id": 90,
+    "title": "Puma Future Rider Trainers",
+    "brand": "Puma",
+    "category": "mens-shoes",
+    "price": 89.99
+  },
+  {
+    "id": 91,
+    "title": "Sports Sneakers Off White & Red",
+    "brand": "Off White",
+    "category": "mens-shoes",
+    "price": 119.99
+  },
+  {
+    "id": 92,
+    "title": "Sports Sneakers Off White Red",
+    "brand": "Off White",
+    "category": "mens-shoes",
+    "price": 109.99
+  },
+  {
+    "id": 93,
+    "title": "Brown Leather Belt Watch",
+    "brand": "Fashion Timepieces",
+    "category": "mens-watches",
+    "price": 89.99
+  },
+  {
+    "id": 94,
+    "title": "Longines Master Collection",
+    "brand": "Longines",
+    "category": "mens-watches",
+    "price": 1499.99
+  },
+  {
+    "id": 95,
+    "title": "Rolex Cellini Date Black Dial",
+    "brand": "Rolex",
+    "category": "mens-watches",
+    "price": 8999.99
+  },
+  {
+    "id": 96,
+    "title": "Rolex Cellini Moonphase",
+    "brand": "Rolex",
+    "category": "mens-watches",
+    "price": 12999.99
+  },
+  {
+    "id": 97,
+    "title": "Rolex Datejust",
+    "brand": "Rolex",
+    "category": "mens-watches",
+    "price": 10999.99
+  },
+  {
+    "id": 98,
+    "title": "Rolex Submariner Watch",
+    "brand": "Rolex",
+    "category": "mens-watches",
+    "price": 13999.99
+  },
+  {
+    "id": 99,
+    "title": "Amazon Echo Plus",
+    "brand": "Amazon",
+    "category": "mobile-accessories",
+    "price": 99.99
+  },
+  {
+    "id": 100,
+    "title": "Apple Airpods",
+    "brand": "Apple",
+    "category": "mobile-accessories",
+    "price": 129.99
+  }
+]
